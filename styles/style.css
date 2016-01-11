@@ -34,10 +34,17 @@ li {
 	padding-right: 50px;
 }
 
+#google-logo {
+	display: inline-block;
+	vertical-align: middle;
+	width: 245px;
+
+}
 .searchbutton, .luckybutton {
 	border: none;
 	font-weight: bold;
-	color: #6b6b47;
+	color: #808080;
+	background: #f5f5f5;	
 	margin: 30px 15px 15px 0;
 	padding: 10px;
 }
